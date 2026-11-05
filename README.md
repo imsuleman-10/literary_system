@@ -66,9 +66,6 @@ npm run dev
 
 See full guide in `DEPLOY_GUIDE.md`
 
-## 🔑 Admin Credentials
-- **Email:** sulemanzaheer09@gmail.com
-- **Password:** Samual123@
 
 ## 🛠️ Tech Stack
 | Layer | Technology |
